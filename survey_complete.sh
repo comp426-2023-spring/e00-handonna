@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=https://classroom.github.com/a/icG2oERU
+EXAMCODE=983759606
 
 echo ${EXAMCODE}
